@@ -2,6 +2,8 @@
 
 Client library for [msgpack-rpc-over-http](https://github.com/authorNari/msgpack-rpc-over-http) for Go.
 
+[![Build Status](https://travis-ci.org/hakobera/msgpack-rpc-over-http-go.svg?branch=master)](https://travis-ci.org/hakobera/msgpack-rpc-over-http-go)
+
 ## Install
 
 ```
