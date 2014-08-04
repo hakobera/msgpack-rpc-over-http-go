@@ -21,3 +21,7 @@ _testmain.go
 
 *.exe
 *.test
+
+# ruby
+Gemfile.lock
+.bundle
