@@ -22,6 +22,9 @@ _testmain.go
 *.exe
 *.test
 
+# vi
+*.swp
+
 # ruby
 Gemfile.lock
 .bundle
